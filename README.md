@@ -10,9 +10,9 @@ This is an app i made (following a tutorial) that allows the user to interact wi
 
 ## What it looks like
 
-![](pres\NewsAlanAi_Responsive_Web_Design_Demo_HomePage.png)
+![picture of the homepage on diffrent devices](pres\NewsAlanAi_Responsive_Web_Design_Demo_HomePage.png)
 
-![](pres\NewsAlanAi_Responsive_Web_Design_Demo_Artiles.png)
+![picture of the articles page on diffrent devices](pres\NewsAlanAi_Responsive_Web_Design_Demo_Artiles.png)
 
 ## About Alan ai
 
@@ -20,4 +20,4 @@ the logic about alan ai itself (speach recognition, alan answers, calling api, e
 
 here's a quick pic if you are curious about what alan ai website looks like:
 
-![](pres\news_alan_ai_website_interface.png)
+![alan ai's website interface](pres\news_alan_ai_website_interface.png)
