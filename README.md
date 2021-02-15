@@ -21,3 +21,4 @@ the logic about alan ai itself (speach recognition, alan answers, calling api, e
 here's a quick pic if you are curious about what alan ai website looks like:
 
 ![alan ai's website interface](pres\Interface.png)
+<img source='pres\Interface.png' alt='alan website interface'>
